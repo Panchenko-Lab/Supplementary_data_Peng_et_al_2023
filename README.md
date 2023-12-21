@@ -6,6 +6,6 @@ You can browse the following folders:
 2. [Source_Code](Source_Code): scripts and parameter files for running simulation
 
 Additional Files are archived at: 
-https://doi.org/10.5281/zenodo.4771269
+https://doi.org/10.5281/zenodo.10418936
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4771269.svg)](https://doi.org/10.5281/zenodo.4771269)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10418936.svg)](https://doi.org/10.5281/zenodo.10418936)
